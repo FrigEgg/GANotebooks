@@ -65,3 +65,4 @@ Validation result of  facades dataset after 150 epochs using resnet. From top to
 * dcgan-lasagne: DCGAN in Lasagne
 ### DCGAN sample results
 <img src="img/dcgan-cifar10.png" height="300" />
+mygit
